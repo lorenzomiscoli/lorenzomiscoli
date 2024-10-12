@@ -3,7 +3,7 @@
 - 💻 Always working on something new.
 - 🚀 Learning never stops.
 - 📝 Blogging over [lorenzomiscoli.com/blog](https://lorenzomiscoli.com/blog).
-- 💬 Ask me about **Spring, Angular, Java, Javascript** or any programming related stuff.
+- 💬 Ask me about **Java, SpringBoot, Angular, Docker** or any programming related stuff.
 
 ## Connect with me:
 [![Lorenzo Miscoli](https://img.shields.io/badge/lorenzomiscoli.com-2f85f6?style=flat-square&logoColor=white)](https://lorenzomiscoli.com)
